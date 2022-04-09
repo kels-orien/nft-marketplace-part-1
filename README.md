@@ -8,9 +8,9 @@ A [tutorial](https://dev.to/kels_orien/building-a-nft-market-place-with-near-pro
 #### To run this app locally, follow below steps:
 
 ##### Clone using command line interface:
-
+```
 git clone https://github.com/kels-orien/nft-marketplace-part-1.git
-
+```
 
 ##### Create wallet testnet account
 open [wallet testnet account](wallet.testnet.near.org/)
