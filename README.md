@@ -6,10 +6,10 @@ A [tutorial](https://dev.to/kels_orien/building-a-full-stack-nft-market-place-wi
 
 
 ### Prerequisites
-[Nodejs](https://github.com/nvm-sh/nvm)
-[NEAR Wallet Account](https://wallet.testnet.near.org/)
-[Rust Toolchain](https://docs.near.org/docs/develop/contracts/rust/intro#installing-the-rust-toolchain)
-[NEAR-CLI](https://docs.near.org/docs/tools/near-cli#setup)
+* [Nodejs](https://github.com/nvm-sh/nvm)
+* [NEAR Wallet Account](https://wallet.testnet.near.org/)
+* [Rust Toolchain](https://docs.near.org/docs/develop/contracts/rust/intro#installing-the-rust-toolchain)
+* [NEAR-CLI](https://docs.near.org/docs/tools/near-cli#setup)
 
 
 ## Getting Started
