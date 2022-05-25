@@ -5,16 +5,15 @@ A [tutorial](https://dev.to/kels_orien/building-a-full-stack-nft-market-place-wi
 ![alt-text](https://res.cloudinary.com/dofiasjpi/image/upload/v1649243579/near-tutorial-nfts/near-tut-preview.png)
 
 
-##### Prerequisites
-[Nodejs] (https://github.com/nvm-sh/nvm)
+### Prerequisites
+[Nodejs](https://github.com/nvm-sh/nvm)
 [NEAR Wallet Account](https://wallet.testnet.near.org/)
-
 [Rust Toolchain](https://docs.near.org/docs/develop/contracts/rust/intro#installing-the-rust-toolchain)
 [NEAR-CLI](https://docs.near.org/docs/tools/near-cli#setup)
 
 
 ## Getting Started
-Near Protocol uses [rust](https://www.rust-lang.org/) programming language for it's smart contracts. We are going to start with a rust contract template.
+Near Protocol us es [rust](https://www.rust-lang.org/) programming language for it's smart contracts. We are going to start with a rust contract template.
 
 
 #### To run this app locally, follow below steps:
