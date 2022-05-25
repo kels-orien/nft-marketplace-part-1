@@ -13,7 +13,7 @@ A [tutorial](https://dev.to/kels_orien/building-a-full-stack-nft-market-place-wi
 
 
 ## Getting Started
-Near Protocol us es [rust](https://www.rust-lang.org/) programming language for it's smart contracts. We are going to start with a rust contract template.
+Near Protocol uses [rust](https://www.rust-lang.org/) programming language for it's smart contracts. We are going to start with a rust contract template.
 
 
 #### To run this app locally, follow below steps:
