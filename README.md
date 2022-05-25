@@ -1,8 +1,20 @@
 # nft-marketplace-part-1
-A [tutorial](https://dev.to/kels_orien/building-a-nft-market-place-with-near-protocol-and-reactjs-1bpi-temp-slug-8479008?preview=3d2f12f601ff1a901cc45bafa9ca1649cdab8462fd413f383af74216df80c6c5c405cff9d102e5bfa272617298fb75f7a039b2d66a67fa347ec9d28e) for an NFT Market Place built using Near Protocol and React.js.
+A [tutorial](https://dev.to/kels_orien/building-a-full-stack-nft-market-place-with-near-protocol-and-reactjs-ak9) for an NFT Market Place built using Near Protocol and React.js.
 
 #### Preview
 ![alt-text](https://res.cloudinary.com/dofiasjpi/image/upload/v1649243579/near-tutorial-nfts/near-tut-preview.png)
+
+
+##### Prerequisites
+[Nodejs] (https://github.com/nvm-sh/nvm)
+[NEAR Wallet Account](https://wallet.testnet.near.org/)
+
+[Rust Toolchain](https://docs.near.org/docs/develop/contracts/rust/intro#installing-the-rust-toolchain)
+[NEAR-CLI](https://docs.near.org/docs/tools/near-cli#setup)
+
+
+## Getting Started
+Near Protocol uses [rust](https://www.rust-lang.org/) programming language for it's smart contracts. We are going to start with a rust contract template.
 
 
 #### To run this app locally, follow below steps:
